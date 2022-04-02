@@ -14,4 +14,3 @@ workflows:
   test_and_deploy:
     jobs:
       - test
-      - deploy
